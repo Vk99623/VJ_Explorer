@@ -1,0 +1,1 @@
+tsc ./ts/app.ts -t es2018 --outFile ./js/app.js && tsc ./ts/service_worker.ts -t es2018 --outFile ./js/service_worker.js
